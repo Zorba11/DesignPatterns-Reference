@@ -1,0 +1,1 @@
+The idea is to use a builder to create complex objects i.e. objects that have a lot of properties.
