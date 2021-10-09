@@ -1,0 +1,2 @@
+A class of which only a single instance can exist. For example a logger instance of a class which is used by all modules of a codebase.
+So, in this example even if we try to create different instances of logger (say loggger2), it will all point to the same logger instance that was created initially.
